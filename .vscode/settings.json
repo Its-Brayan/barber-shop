@@ -1,0 +1,10 @@
+{
+  "liveServer.settings.port": 5501,
+  "php.suggest.basic": true,
+  "php.validate.enable": true,
+  "php.validate.executablePath": "/usr/bin/php",
+  "fiveServer.php.executable": "/usr/bin/php",
+  "fiveServer.browser": [
+
+  ]
+}
